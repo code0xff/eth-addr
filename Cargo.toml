@@ -1,5 +1,5 @@
 [package]
-name = "eth"
+name = "eth-addr"
 version = "0.1.0"
 authors = ["code0xff <ian.jungyong.um@gmail.com>"]
 edition = "2018"
